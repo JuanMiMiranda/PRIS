@@ -1,4 +1,4 @@
-package ochoReinas;
+package ocho.reinas;
 
 import java.awt.Graphics;
 
